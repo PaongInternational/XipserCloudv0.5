@@ -1,0 +1,3 @@
+Nilai default RAM adalah 4096M (4GB).
+​Anda dapat mengubahnya menggunakan perintah: ./xipsercloud.sh set_ram <nilai>
+​4096M
